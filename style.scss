@@ -1,0 +1,56 @@
+body {
+  font-family: Helvetica, Arial;
+}
+
+.wrapper {
+  padding: 150px 0;
+  width: 80%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.logo {
+  width: 300px;
+  height: 150px;
+  display: inline-block;
+  background: transparent url('logo.png') no-repeat center;
+  background-size: 100% auto;
+}
+
+.email {
+  font-size: 12px;
+  color: black;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h1 {
+  display: none;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+
+  li {
+    display: inline-block;
+  }
+
+  li:after {
+    content: '';
+    display: inline-block;
+    width: 1px;
+    height: 15px;
+    margin: 0 15px;
+    background: #999;
+  }
+
+  li:last-child:after {
+    display: none;
+  }
+}
