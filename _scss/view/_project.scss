@@ -156,6 +156,8 @@
 } 
 
 .project__mosaic {
+  max-width: 1200px;
+  margin: auto;
   align-items: center;
   display: flex;
   flex-flow: row wrap;
@@ -194,6 +196,15 @@
     margin: auto;
     display: block;
   }
+}
+
+.project__subtitle {
+  text-align: center;
+  font-size: 3rem;
+  opacity: .4;
+  font-family: $playfair;
+  padding: 4rem 0 0 0;
+  display: block;
 }
 
 .project__black-video-title {
