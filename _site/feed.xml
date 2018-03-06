@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-06T14:29:48+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-06T15:35:41+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
 </subtitle><entry><title type="html">SFDK</title><link href="http://localhost:4000/sfdk/" rel="alternate" type="text/html" title="SFDK" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/sfdk</id><content type="html" xml:base="http://localhost:4000/sfdk/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
@@ -75,7 +75,7 @@
       Cliente
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      SFDK + VEVO
+      The Jungle
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
@@ -98,12 +98,24 @@
 &lt;div class=&quot;project__intro&quot;&gt;
   Una referencia en las noches de Madrid, famosos por sus fiestas donde los mejores deejays de HipHop y Reggae consiguen que nadie pare de bailar cada sábado. Son varios años los que llevamos juntos, diseñando semanalmente los flyers e inmortalizando a todo el que pasa por allí. Además, hace tiempo rodamos un aftermovie dónde se puede ver lo que ocurre en la jungla.
 &lt;/div&gt;
+&lt;div class=&quot;project__jungle&quot;&gt;
+  &lt;h3 class=&quot;project__jungle-title&quot;&gt;Nigth Party.&lt;/h3&gt;
+  &lt;img src=&quot;/public/jungle/big.jpg&quot; class=&quot;project__jungle-img&quot;&gt;
+&lt;/div&gt;
 &lt;div class=&quot;project__mosaic&quot;&gt;
-
+  &lt;img src=&quot;/public/jungle/01.jpg&quot;&gt;
+  &lt;img src=&quot;/public/jungle/02.jpg&quot;&gt;
+  &lt;img src=&quot;/public/jungle/03.jpg&quot;&gt;
+  &lt;img src=&quot;/public/jungle/04.jpg&quot;&gt;
+  &lt;img src=&quot;/public/jungle/05.jpg&quot;&gt;
 &lt;/div&gt;
 &lt;div class=&quot;project__black-video&quot;&gt;
-  https://www.youtube.com/watch?v=zhjkRaEKIBk
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente SFDK + VEVO Año 2015 Trabajo Diseño, foto y vídeo Una referencia en las noches de Madrid, famosos por sus fiestas donde los mejores deejays de HipHop y Reggae consiguen que nadie pare de bailar cada sábado. Son varios años los que llevamos juntos, diseñando semanalmente los flyers e inmortalizando a todo el que pasa por allí. Además, hace tiempo rodamos un aftermovie dónde se puede ver lo que ocurre en la jungla.</summary></entry><entry><title type="html">Cosmosoul</title><link href="http://localhost:4000/cosmosoul/" rel="alternate" type="text/html" title="Cosmosoul" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/cosmosoul</id><content type="html" xml:base="http://localhost:4000/cosmosoul/">&lt;div class=&quot;project__author&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    AfterMovie
+    &lt;span&gt;#Hiphop &amp; #JamaicanVibes&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zhjkRaEKIBk?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente The Jungle Año 2015 Trabajo Diseño, foto y vídeo Una referencia en las noches de Madrid, famosos por sus fiestas donde los mejores deejays de HipHop y Reggae consiguen que nadie pare de bailar cada sábado. Son varios años los que llevamos juntos, diseñando semanalmente los flyers e inmortalizando a todo el que pasa por allí. Además, hace tiempo rodamos un aftermovie dónde se puede ver lo que ocurre en la jungla. Nigth Party. AfterMovie #Hiphop &amp; #JamaicanVibes</summary></entry><entry><title type="html">Cosmosoul</title><link href="http://localhost:4000/cosmosoul/" rel="alternate" type="text/html" title="Cosmosoul" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/cosmosoul</id><content type="html" xml:base="http://localhost:4000/cosmosoul/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
