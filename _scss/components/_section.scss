@@ -1,0 +1,11 @@
+@import "../variables/grid";
+
+$section-row-max-width: $grid;
+
+.section {
+  padding: 10rem 0;
+}
+
+.section--no-padding {
+  padding: 0;
+}

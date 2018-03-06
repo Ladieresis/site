@@ -1,0 +1,27 @@
+@font-face{
+  font-family: 'Archivo Bold';
+  font-style: normal;
+  src: url('../assets/typography/Archivo-Bold.ttf');
+}
+
+@font-face{
+  font-family: 'Inter UI Medium';
+  font-style: normal;
+  src: url('../assets/typography/Inter-UI-Medium.ttf');
+}
+
+@font-face{
+  font-family: 'Inter UI Regular';
+  font-style: normal;
+  src: url('../assets/typography/Inter-UI-Regular.ttf');
+}
+
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
+
+// sample variables
+
+$archivo-bold: 'Archivo Bold';
+$inter-regular: 'Inter UI Regular';
+$inter-medium: 'Inter UI Medium';
+$playfair: 'Playfair Display', serif;

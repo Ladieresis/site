@@ -1,0 +1,24 @@
+---
+layout      : default
+type        : blog
+title       : Photoblog
+permalink   : /photoblog/
+---
+<div class="photoblog">
+{% for post in site.categories.photoblog %}
+  <article class="photoblog__article">
+    <div class="photoblog__date">
+      {{ post.date | date: '%B, %Y' }}
+    </div>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="photoblog__link">
+      <picture class="photoblog__picture">
+        <source media="(max-width: 720px)" srcset='{{post.min-thumb}}'>
+        <img data-object-fit="cover" class="photoblog__img" alt="captura" title="captura" src='{{post.big-thumb}}'/>
+      </picture>
+    </a>
+    <div class="photoblog__content">
+      {{ post.content }}
+    </div>
+  </article>
+{% endfor %}
+</div>

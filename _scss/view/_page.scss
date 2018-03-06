@@ -1,0 +1,26 @@
+@import "../variables/grid";
+
+$page-hero-background: #f0f0f0;
+$page-content-grid: $grid;
+
+.page__hero {
+  background: $page-hero-background;
+  padding: 8rem 0;
+}
+
+.page__title {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.page__content {
+  margin: auto;
+  max-width: $page-content-grid;
+  padding: 3rem 0;
+
+  p {
+    font-size: 1rem;
+    padding-bottom: 1rem;
+    line-height: 1.5rem;
+  }
+}

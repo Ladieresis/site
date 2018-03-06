@@ -1,0 +1,10 @@
+@import "../variables/colors";
+
+.about {
+  background: $color-gold;
+}
+
+.about__title {
+  color: $color-black;
+  font-size: 5rem;
+}

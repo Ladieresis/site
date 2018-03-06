@@ -1,0 +1,72 @@
+$footer-rrss-icon-size: 50px;
+$footer-whitespace: 4rem;
+
+.footer {
+  padding: 10rem 0;
+  text-align: center;
+}
+
+.footer__title {
+  color: #999;
+  font-family: $inter-medium;
+  font-size: .75rem;
+  letter-spacing: 4px;
+  padding-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.footer__email {
+  color: #444;
+  display: block;
+  font-size: 4rem;
+  padding: 0 0 $footer-whitespace 0;
+  opacity: .8;
+  font-family: $archivo-bold;
+  text-decoration: none;
+  transition: .2s opacity;
+}
+
+.footer__email:hover {
+  opacity: 1;
+}
+
+.footer__rrss:before {
+  background: $color-black;
+  content: '';
+  display: block;
+  height: 4px;
+  margin: 0 auto $footer-whitespace;
+  width: 120px;
+}
+
+.footer__rrss-icon {
+  background-size: 100% auto;
+  display: inline-block;
+  height: $footer-rrss-icon-size;
+  opacity: .6;
+  margin-right: 2rem;
+  text-indent: -99999999px;
+  transition: .2s transform, .2s opacity;
+  width: $footer-rrss-icon-size;
+}
+
+.footer__rrss-icon:hover {
+  opacity: 1;
+  transform: translateY(-5px);
+}
+
+.footer__rrss-icon-twitter {
+  background: transparent url('../assets/icons/rrss/twitter.svg') center no-repeat;
+}
+
+.footer__rrss-icon-youtube {
+  background: transparent url('../assets/icons/rrss/youtube.svg') center no-repeat;
+}
+
+.footer__rrss-icon-facebook {
+  background: transparent url('../assets/icons/rrss/facebook.svg') center no-repeat;
+}
+
+.footer__rrss-icon-instagram {
+  background: transparent url('../assets/icons/rrss/instagram.svg') center no-repeat;
+}
