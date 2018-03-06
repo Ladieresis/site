@@ -123,12 +123,93 @@
 
 .project__big-description {
   font-size: 1.05rem;
-  font-family: $inter-medium;
-  color: $color-black;
-  opacity: .6;
-  text-indent: 2rem;
+  display: block;
+  height: auto;
+  margin: auto;
+  border: 20px solid $color-black;
 }
 
+.project__jungle {
+  display: block;
+  margin: auto;
+  max-width: 800px;
+  position: relative;
+}
+
+.project__jungle-img {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
+.project__jungle-title {
+  background: $color-white;
+  color: $color-black;
+  display: inline-block;
+  font-size: 6rem;
+  font-family: $archivo-bold;
+  padding: .5rem 4rem;
+  position: absolute;
+  text-align: center;
+  top: 80px;
+  width: 100%;
+} 
+
+.project__mosaic {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 5rem 0;
+
+  img {
+    display: block;
+    height: auto;
+  }
+
+  img:nth-child(1) {
+    flex: 0 1 50%;
+    max-width: 50%
+  } 
+
+  img:nth-child(2) {
+    flex: 0 1 50%;
+    max-width: 50%;
+  } 
+
+  img:nth-child(3),
+  img:nth-child(4),
+  img:nth-child(5) {
+    flex: 0 1 calc( 100%/3 );
+    max-width: calc( 100%/3 );
+  } 
+}
+
+.project__black-video {
+  background: $color-black;
+  padding: 4rem 0;
+  margin: 4rem 0;
+
+  iframe {
+    max-width: 800px;
+    margin: auto;
+    display: block;
+  }
+}
+
+.project__black-video-title {
+  text-align: center;
+  color: $color-white;
+  font-size: 3rem;
+  font-family: $playfair;
+  padding: 0 0 2rem 0;
+
+  span {
+    font-size: 2rem;
+    opacity: .4;
+    display: block;
+    padding-top: 1rem;
+  }
+}
 
 @media #{$breakpoints-medium} {
   .project__intro {
