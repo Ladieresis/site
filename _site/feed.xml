@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-06T18:51:10+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-13T09:37:49+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
 </subtitle><entry><title type="html">SFDK</title><link href="http://localhost:4000/sfdk/" rel="alternate" type="text/html" title="SFDK" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/sfdk</id><content type="html" xml:base="http://localhost:4000/sfdk/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
@@ -147,6 +147,36 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
 &lt;/div&gt;
 &lt;div class=&quot;project__intro&quot;&gt;
   CosmoSoul es una banda de world music afincada en Madrid, con sus cimientos en la escena de la capital, gran reconocimiento a nivel nacional y enorme trayectoria internacional. Llevamos trabajando juntos desde épocas de Myspace, cuando diseñamos su página oficial y, tanto colectiva como individualmente, seguimos creando para ellos. Aquí, fotografías de algunos de sus conciertos, en las sesiones de estudio o para prensa, también varios carteles de sus giras y visuales; videoclip, live y lyric video.
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    CosmoSoul - SIMPLIFY
+    &lt;span&gt;Lyric Video&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/l_Vl4ThWhKo?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&quot;project__subtitle&quot;&gt;
+  Galería de fotos
+&lt;/h2&gt;
+&lt;div class=&quot;project__mosaic&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/01.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/02.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/03.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/04.jpg&quot;&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;project__subtitle&quot;&gt;
+  Galería de carteles
+&lt;/h2&gt;
+&lt;div class=&quot;project__mosaic&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel01.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel02.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel03.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel04.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel05.jpg&quot;&gt;
 &lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Cosmosoul Año 2015 Trabajo Diseño, vídeo y foto CosmoSoul es una banda de world music afincada en Madrid, con sus cimientos en la escena de la capital, gran reconocimiento a nivel nacional y enorme trayectoria internacional. Llevamos trabajando juntos desde épocas de Myspace, cuando diseñamos su página oficial y, tanto colectiva como individualmente, seguimos creando para ellos. Aquí, fotografías de algunos de sus conciertos, en las sesiones de estudio o para prensa, también varios carteles de sus giras y visuales; videoclip, live y lyric video.</summary></entry><entry><title type="html">Royal</title><link href="http://localhost:4000/royal/" rel="alternate" type="text/html" title="Royal" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backroyal</id><content type="html" xml:base="http://localhost:4000/royal/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
@@ -206,11 +236,36 @@ La poesía y el rap le han situado dónde está ahora, colocando su nombre en to
 Hemos trabajado con él y junto a Ingenia Pro en varios directos, temas de estudio y salas, como operadores de cámara. Pero sobre todo en animaciones visuales para su último trabajo Antónimo.
 Aquí encontraréis tres lyrics que hemos creado para él y su música.
 &lt;/div&gt;
-&lt;div class=&quot;project__slide&quot;&gt;
-  No hago Rap https://www.youtube.com/watch?v=fptWkbjUnAo
-Meteorito https://www.youtube.com/watch?v=yUrSToiuUH0
-Imperdible https://www.youtube.com/watch?v=ULbILrgtDgU
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Rayden Año 2016 Trabajo Videoclip La poesía y el rap le han situado dónde está ahora, colocando su nombre en todos los medios y en lo más alto de las listas de ventas. Hemos trabajado con él y junto a Ingenia Pro en varios directos, temas de estudio y salas, como operadores de cámara. Pero sobre todo en animaciones visuales para su último trabajo Antónimo. Aquí encontraréis tres lyrics que hemos creado para él y su música. No hago Rap https://www.youtube.com/watch?v=fptWkbjUnAo Meteorito https://www.youtube.com/watch?v=yUrSToiuUH0 Imperdible https://www.youtube.com/watch?v=ULbILrgtDgU</summary></entry><entry><title type="html">Heavy Weigths</title><link href="http://localhost:4000/heavyweigths/" rel="alternate" type="text/html" title="Heavy Weigths" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backheavyweights</id><content type="html" xml:base="http://localhost:4000/heavyweigths/">&lt;div class=&quot;project__author&quot;&gt;
+
+&lt;h2 class=&quot;project__subtitle&quot;&gt;
+  Galería de carteles
+&lt;/h2&gt;
+&lt;div class=&quot;project__mosaic project__mosaic--three&quot;&gt;
+  &lt;img src=&quot;/public/rayden/cartel01.jpg&quot;&gt;
+  &lt;img src=&quot;/public/rayden/cartel02.jpg&quot;&gt;
+  &lt;img src=&quot;/public/rayden/cartel03.jpg&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    Imperdible
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ULbILrgtDgU?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    Meteorito
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yUrSToiuUH0?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    No hago Rap
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fptWkbjUnAo?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Rayden Año 2016 Trabajo Videoclip La poesía y el rap le han situado dónde está ahora, colocando su nombre en todos los medios y en lo más alto de las listas de ventas. Hemos trabajado con él y junto a Ingenia Pro en varios directos, temas de estudio y salas, como operadores de cámara. Pero sobre todo en animaciones visuales para su último trabajo Antónimo. Aquí encontraréis tres lyrics que hemos creado para él y su música.</summary></entry><entry><title type="html">Heavy Weigths</title><link href="http://localhost:4000/heavyweigths/" rel="alternate" type="text/html" title="Heavy Weigths" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backheavyweights</id><content type="html" xml:base="http://localhost:4000/heavyweigths/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente

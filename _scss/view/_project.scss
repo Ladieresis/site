@@ -126,7 +126,6 @@
   display: block;
   height: auto;
   margin: auto;
-  border: 20px solid $color-black;
 }
 
 .project__jungle {
@@ -186,6 +185,19 @@
   } 
 }
 
+.project__mosaic--three {
+  img,
+  img:nth-child(1),
+  img:nth-child(2),
+  img:nth-child(3),
+  img:nth-child(4),
+  img:nth-child(5),
+  img:nth-child(6) {
+    flex: 0 1 calc( 100%/3 );
+    max-width: calc( 100%/3 );
+  }
+}
+
 .project__black-video {
   background: $color-black;
   padding: 4rem 0;
@@ -226,7 +238,6 @@
   .project__intro {
     font-size: 2em;
     line-height: 2.5rem;
-    padding: 75px 0 150px 0;
     text-align: center;
   }
 
