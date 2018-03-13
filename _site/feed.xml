@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-13T09:37:49+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-13T09:47:24+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
 </subtitle><entry><title type="html">SFDK</title><link href="http://localhost:4000/sfdk/" rel="alternate" type="text/html" title="SFDK" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/sfdk</id><content type="html" xml:base="http://localhost:4000/sfdk/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
@@ -205,7 +205,45 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
 &lt;/div&gt;
 &lt;div class=&quot;project__intro&quot;&gt;
   Una de las bandas emergentes de Rock n' Roll de la capital, con una energía indudable y un largo camino por recorrer aún, nos sacan de nuestra zona de confort cada vez que trabajamos con ellos.
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Royal Año 2015 Trabajo Videoclip Una de las bandas emergentes de Rock n' Roll de la capital, con una energía indudable y un largo camino por recorrer aún, nos sacan de nuestra zona de confort cada vez que trabajamos con ellos.</summary></entry><entry><title type="html">Rayden</title><link href="http://localhost:4000/rayden/" rel="alternate" type="text/html" title="Rayden" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backrayden</id><content type="html" xml:base="http://localhost:4000/rayden/">&lt;div class=&quot;project__author&quot;&gt;
+  Nuestro primer trabajo juntos fue para su disco &quot;Hysteria&quot;, dónde rodamos &quot;That Something&quot; nuestro primer audiovisual jutnos, pero no el último. Actualmente estamos escribiendo guión que se convertirá en videoclip para su nuevo lanzamiento &quot;I like it/Criminal love&quot;
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    That Something
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vqOH2WQGVTc?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    I like it
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/VIVtcXm_ALU?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&quot;project__subtitle&quot;&gt;
+  Galería de fotos
+&lt;/h2&gt;
+&lt;div class=&quot;project__mosaic project__mosaic--three&quot;&gt;
+  &lt;img src=&quot;/public/royal/cartel01.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/cartel02.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/cartel03.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/cartel04.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/cartel05.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/cartel06.jpg&quot;&gt;
+&lt;/div&gt;
+&lt;div class=&quot;project__mosaic&quot;&gt;
+  &lt;img src=&quot;/public/royal/01.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/02.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/03.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/04.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/05.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/06.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/07.jpg&quot;&gt;
+  &lt;img src=&quot;/public/royal/08.jpg&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Royal Año 2015 Trabajo Videoclip Una de las bandas emergentes de Rock n' Roll de la capital, con una energía indudable y un largo camino por recorrer aún, nos sacan de nuestra zona de confort cada vez que trabajamos con ellos. Nuestro primer trabajo juntos fue para su disco &quot;Hysteria&quot;, dónde rodamos &quot;That Something&quot; nuestro primer audiovisual jutnos, pero no el último. Actualmente estamos escribiendo guión que se convertirá en videoclip para su nuevo lanzamiento &quot;I like it/Criminal love&quot;</summary></entry><entry><title type="html">Rayden</title><link href="http://localhost:4000/rayden/" rel="alternate" type="text/html" title="Rayden" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backrayden</id><content type="html" xml:base="http://localhost:4000/rayden/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
