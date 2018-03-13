@@ -12,6 +12,14 @@
   bottom: 0;
 }
 
+.section-home__video--mobile {
+  display: block;
+}
+
+.section-home__video--desktop {
+  display: none;
+}
+
 .section-home__content {
   flex-flow: column wrap;
   display: flex;
@@ -94,4 +102,12 @@
   .section-home__description {
     padding: 6rem 0 5rem 0;
   } 
+
+  .section-home__video--mobile {
+    display: none;
+  }
+
+  .section-home__video--desktop {
+    display: block;
+  }
 }
