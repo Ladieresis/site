@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-13T13:19:53+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-14T20:40:41+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
 </subtitle><entry><title type="html">SFDK</title><link href="http://localhost:4000/sfdk/" rel="alternate" type="text/html" title="SFDK" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/sfdk</id><content type="html" xml:base="http://localhost:4000/sfdk/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
@@ -208,7 +208,7 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
   Nuestro primer trabajo juntos fue para su disco &quot;Hysteria&quot;, dónde rodamos &quot;That Something&quot; nuestro primer audiovisual jutnos, pero no el último. Actualmente estamos escribiendo guión que se convertirá en videoclip para su nuevo lanzamiento &quot;I like it/Criminal love&quot;
 &lt;/div&gt;
 
-&lt;div class=&quot;project__black-video&quot;&gt;
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
   &lt;h3 class=&quot;project__black-video-title&quot;&gt;
     That Something
   &lt;/h3&gt;

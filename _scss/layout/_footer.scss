@@ -18,7 +18,7 @@ $footer-whitespace: 4rem;
 .footer__email {
   color: #444;
   display: block;
-  font-size: 4rem;
+  font-size: 2rem;
   padding: 0 0 $footer-whitespace 0;
   opacity: .8;
   font-family: $archivo-bold;
@@ -69,4 +69,16 @@ $footer-whitespace: 4rem;
 
 .footer__rrss-icon-instagram {
   background: transparent url('../assets/icons/rrss/instagram.svg') center no-repeat;
+}
+
+@media #{$breakpoints-medium} {
+  .footer__email {
+    font-size: 3rem;
+  }
+}
+
+@media #{$breakpoints-large} {
+  .footer__email {
+    font-size: 4rem;
+  }
 }
