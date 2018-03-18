@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-18T15:02:03+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-18T17:21:25+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
 </subtitle><entry><title type="html">SFDK</title><link href="http://localhost:4000/sfdk/" rel="alternate" type="text/html" title="SFDK" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/sfdk</id><content type="html" xml:base="http://localhost:4000/sfdk/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      SFDK + VEVO
+      SFDK 
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
@@ -18,16 +18,21 @@
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
-      Trabajo
+      Servicio
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
       Videoclip
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
-
 &lt;div class=&quot;project__intro&quot;&gt;
   Resisten en cabeza del HipHop en español desde hace más de 20 años, girando por todo el mapa resistiendo como referencia en el panorama tanto nacional como internacional. Contactaron con nosotros para rodar uno de los videoclips de su disco &quot;Sin miedo a vivir&quot;, junto a Swan que, a día de hoy, es el más visto de toda su carrera. A partir de ahí, nuestra relación se estrechó y hemos seguido trabajando para los proyectos personales de Acción Sánchez.
+  &lt;h3 class=&quot;project__intro-title&quot;&gt;
+    · Crew ·
+  &lt;/h3&gt;
+  &lt;div class=&quot;project__intro-list&quot;&gt;
+    Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;project__two&quot;&gt;
   &lt;div class=&quot;project__section&quot;&gt;
@@ -35,19 +40,45 @@
       +20M
     &lt;/h2&gt;
     &lt;p class=&quot;project__big-description&quot;&gt;
-      +20.000.000 reproducciones en Youtube
+      SFDK - Todo Lo Que Importa Feat. Fyahbwoy
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;project__section&quot;&gt;
     &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/k2xrg65qzuA?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
   &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente SFDK + VEVO Año 2015 Trabajo Videoclip</summary></entry><entry><title type="html">Pelotas</title><link href="http://localhost:4000/pelotas/" rel="alternate" type="text/html" title="Pelotas" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/pelotas</id><content type="html" xml:base="http://localhost:4000/pelotas/">&lt;div class=&quot;project__author&quot;&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    Acción Sánchez
+    &lt;span&gt;ME CAGO EN MI FADER&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vWYS1uiidY8?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    HAZHE &amp; ACCION SANCHEZ 
+    &lt;span&gt;LOS MATO con TOTEKING&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NqSOV2pttP8?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    HAZHE &amp; ACCION SANCHEZ
+        &lt;span&gt;Y TU MAMA TAMBIÉN con ZATU&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/DRp__z98jUU?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente SFDK Año 2015 Servicio Videoclip Resisten en cabeza del HipHop en español desde hace más de 20 años, girando por todo el mapa resistiendo como referencia en el panorama tanto nacional como internacional. Contactaron con nosotros para rodar uno de los videoclips de su disco &quot;Sin miedo a vivir&quot;, junto a Swan que, a día de hoy, es el más visto de toda su carrera. A partir de ahí, nuestra relación se estrechó y hemos seguido trabajando para los proyectos personales de Acción Sánchez. · Crew · Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López +20M SFDK - Todo Lo Que Importa Feat. Fyahbwoy</summary></entry><entry><title type="html">Pelotas</title><link href="http://localhost:4000/pelotas/" rel="alternate" type="text/html" title="Pelotas" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/pelotas</id><content type="html" xml:base="http://localhost:4000/pelotas/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      Baghira 
+      LEGENDARIO &amp; BAGHIRA 
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
@@ -55,22 +86,42 @@
       Año
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      2015
+      2014
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
-      Trabajo
+      Servicio
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      Videoclip + Diseño
+      Completo
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;project__intro&quot;&gt;
-  &quot;Uno de nuestros proyectos más completos, ya que junto a Legendario y Baghira trabajamos toda la imagen de su disco; fotografías, diseño de la portada y lettering, videoclips y merchandising.
-El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovisual que rodamos con ellos &quot;&quot;Arrugo días&quot;&quot; ahora es toda una referencia hacia nuestro trabajo, cientos de personas llevan ropa con su logotipo e incluso plasmamos nuestro diseño en el vinilo dónde podrás encontrar algún remix exclusivo y a cappellas.  &quot;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Baghira Año 2015 Trabajo Videoclip + Diseño &quot;Uno de nuestros proyectos más completos, ya que junto a Legendario y Baghira trabajamos toda la imagen de su disco; fotografías, diseño de la portada y lettering, videoclips y merchandising. El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovisual que rodamos con ellos &quot;&quot;Arrugo días&quot;&quot; ahora es toda una referencia hacia nuestro trabajo, cientos de personas llevan ropa con su logotipo e incluso plasmamos nuestro diseño en el vinilo dónde podrás encontrar algún remix exclusivo y a cappellas. &quot;</summary></entry><entry><title type="html">The Jungle Sessions</title><link href="http://localhost:4000/Jungle/" rel="alternate" type="text/html" title="The Jungle Sessions" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/jungle</id><content type="html" xml:base="http://localhost:4000/Jungle/">&lt;div class=&quot;project__author&quot;&gt;
+  Uno de nuestros proyectos más completos, ya que junto a Legendario y Baghira trabajamos toda la imagen de su disco; fotografías, diseño de la portada y lettering, videoclips y merchandising. El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovisual que rodamos con ellos &quot;&quot;Arrugo días&quot;&quot; ahora es toda una referencia hacia nuestro trabajo, cientos de personas llevan ropa con su logotipo e incluso plasmamos nuestro diseño en el vinilo dónde podrás encontrar algún remix exclusivo y a cappellas.
+  &lt;h3 class=&quot;project__intro-title&quot;&gt;
+    · Crew ·
+  &lt;/h3&gt;
+  &lt;div class=&quot;project__intro-list&quot;&gt;
+    Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    Arrugo días
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/uMldoOWjml8?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    1, 2, 3
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TBL1_YMu66U?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente LEGENDARIO &amp; BAGHIRA Año 2014 Servicio Completo Uno de nuestros proyectos más completos, ya que junto a Legendario y Baghira trabajamos toda la imagen de su disco; fotografías, diseño de la portada y lettering, videoclips y merchandising. El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovisual que rodamos con ellos &quot;&quot;Arrugo días&quot;&quot; ahora es toda una referencia hacia nuestro trabajo, cientos de personas llevan ropa con su logotipo e incluso plasmamos nuestro diseño en el vinilo dónde podrás encontrar algún remix exclusivo y a cappellas. · Crew · Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López</summary></entry><entry><title type="html">The Jungle Sessions</title><link href="http://localhost:4000/Jungle/" rel="alternate" type="text/html" title="The Jungle Sessions" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/jungle</id><content type="html" xml:base="http://localhost:4000/Jungle/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
@@ -84,12 +135,12 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
       Año
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      2015
+      2014
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
-      Trabajo
+      Servicio
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
       Diseño, foto y vídeo
@@ -98,6 +149,12 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
 &lt;/div&gt;
 &lt;div class=&quot;project__intro&quot;&gt;
   Una referencia en las noches de Madrid, famosos por sus fiestas donde los mejores deejays de HipHop y Reggae consiguen que nadie pare de bailar cada sábado. Son varios años los que llevamos juntos, diseñando semanalmente los flyers e inmortalizando a todo el que pasa por allí. Además, hace tiempo rodamos un aftermovie dónde se puede ver lo que ocurre en la jungla.
+  &lt;h3 class=&quot;project__intro-title&quot;&gt;
+    · Crew ·
+  &lt;/h3&gt;
+  &lt;div class=&quot;project__intro-list&quot;&gt;
+    Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;project__jungle&quot;&gt;
   &lt;h3 class=&quot;project__jungle-title&quot;&gt;Nigth Party.&lt;/h3&gt;
@@ -119,7 +176,7 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
     &lt;span&gt;#Hiphop &amp; #JamaicanVibes&lt;/span&gt;
   &lt;/h3&gt;
   &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zhjkRaEKIBk?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente The Jungle Año 2015 Trabajo Diseño, foto y vídeo Una referencia en las noches de Madrid, famosos por sus fiestas donde los mejores deejays de HipHop y Reggae consiguen que nadie pare de bailar cada sábado. Son varios años los que llevamos juntos, diseñando semanalmente los flyers e inmortalizando a todo el que pasa por allí. Además, hace tiempo rodamos un aftermovie dónde se puede ver lo que ocurre en la jungla. Nigth Party. Galería de fotos AfterMovie #Hiphop &amp; #JamaicanVibes</summary></entry><entry><title type="html">Cosmosoul</title><link href="http://localhost:4000/cosmosoul/" rel="alternate" type="text/html" title="Cosmosoul" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/cosmosoul</id><content type="html" xml:base="http://localhost:4000/cosmosoul/">&lt;div class=&quot;project__author&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente The Jungle Año 2014 Servicio Diseño, foto y vídeo Una referencia en las noches de Madrid, famosos por sus fiestas donde los mejores deejays de HipHop y Reggae consiguen que nadie pare de bailar cada sábado. Son varios años los que llevamos juntos, diseñando semanalmente los flyers e inmortalizando a todo el que pasa por allí. Además, hace tiempo rodamos un aftermovie dónde se puede ver lo que ocurre en la jungla. · Crew · Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López Nigth Party. Galería de fotos AfterMovie #Hiphop &amp; #JamaicanVibes</summary></entry><entry><title type="html">Cosmosoul</title><link href="http://localhost:4000/cosmosoul/" rel="alternate" type="text/html" title="Cosmosoul" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/cosmosoul</id><content type="html" xml:base="http://localhost:4000/cosmosoul/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
@@ -133,30 +190,57 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
       Año
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      2015
+      2013
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
-      Trabajo
+      Servicio
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      Diseño, vídeo y foto
+      Completo
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&quot;project__intro&quot;&gt;
   CosmoSoul es una banda de world music afincada en Madrid, con sus cimientos en la escena de la capital, gran reconocimiento a nivel nacional y enorme trayectoria internacional. Llevamos trabajando juntos desde épocas de Myspace, cuando diseñamos su página oficial y, tanto colectiva como individualmente, seguimos creando para ellos. Aquí, fotografías de algunos de sus conciertos, en las sesiones de estudio o para prensa, también varios carteles de sus giras y visuales; videoclip, live y lyric video.
+  &lt;h3 class=&quot;project__intro-title&quot;&gt;
+    · Crew ·
+  &lt;/h3&gt;
+  &lt;div class=&quot;project__intro-list&quot;&gt;
+    Sergio García + Daniel Coronado + Sergio Linares + Diego López
+  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;project__black-video&quot;&gt;
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
   &lt;h3 class=&quot;project__black-video-title&quot;&gt;
-    CosmoSoul - SIMPLIFY
+    SIMPLIFY
     &lt;span&gt;Lyric Video&lt;/span&gt;
   &lt;/h3&gt;
   &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/l_Vl4ThWhKo?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    On the Road
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mfWRu9fHkhA?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    System, give the world a break
+    &lt;span&gt;live ft Gospel Factory &amp; Luca Frasca&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2klhxjLtzAI?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    Lilás Cover [Djavan
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qGFYr5v0-G0?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;h2 class=&quot;project__subtitle&quot;&gt;
   Galería de fotos
@@ -166,10 +250,26 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
   &lt;img src=&quot;/public/cosmosoul/02.jpg&quot;&gt;
   &lt;img src=&quot;/public/cosmosoul/03.jpg&quot;&gt;
   &lt;img src=&quot;/public/cosmosoul/04.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/05.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/06.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/07.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/08.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/09.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/10.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/11.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/12.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/13.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/14.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/15.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/16.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/17.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/18.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/19.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/20.jpg&quot;&gt;
 &lt;/div&gt;
 
 &lt;h2 class=&quot;project__subtitle&quot;&gt;
-  Galería de carteles
+  Cartelería
 &lt;/h2&gt;
 &lt;div class=&quot;project__mosaic&quot;&gt;
   &lt;img src=&quot;/public/cosmosoul/cartel01.jpg&quot;&gt;
@@ -177,7 +277,12 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
   &lt;img src=&quot;/public/cosmosoul/cartel03.jpg&quot;&gt;
   &lt;img src=&quot;/public/cosmosoul/cartel04.jpg&quot;&gt;
   &lt;img src=&quot;/public/cosmosoul/cartel05.jpg&quot;&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Cosmosoul Año 2015 Trabajo Diseño, vídeo y foto CosmoSoul es una banda de world music afincada en Madrid, con sus cimientos en la escena de la capital, gran reconocimiento a nivel nacional y enorme trayectoria internacional. Llevamos trabajando juntos desde épocas de Myspace, cuando diseñamos su página oficial y, tanto colectiva como individualmente, seguimos creando para ellos. Aquí, fotografías de algunos de sus conciertos, en las sesiones de estudio o para prensa, también varios carteles de sus giras y visuales; videoclip, live y lyric video.</summary></entry><entry><title type="html">Royal</title><link href="http://localhost:4000/royal/" rel="alternate" type="text/html" title="Royal" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backroyal</id><content type="html" xml:base="http://localhost:4000/royal/">&lt;div class=&quot;project__author&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel06.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel07.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel08.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel09.jpg&quot;&gt;
+  &lt;img src=&quot;/public/cosmosoul/cartel10.jpg&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Cosmosoul Año 2013 Servicio Completo CosmoSoul es una banda de world music afincada en Madrid, con sus cimientos en la escena de la capital, gran reconocimiento a nivel nacional y enorme trayectoria internacional. Llevamos trabajando juntos desde épocas de Myspace, cuando diseñamos su página oficial y, tanto colectiva como individualmente, seguimos creando para ellos. Aquí, fotografías de algunos de sus conciertos, en las sesiones de estudio o para prensa, también varios carteles de sus giras y visuales; videoclip, live y lyric video. · Crew · Sergio García + Daniel Coronado + Sergio Linares + Diego López</summary></entry><entry><title type="html">The Royal Flash</title><link href="http://localhost:4000/royal/" rel="alternate" type="text/html" title="The Royal Flash" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backroyal</id><content type="html" xml:base="http://localhost:4000/royal/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
@@ -191,12 +296,12 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
       Año
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      2015
+      2016
     &lt;/p&gt;
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
-      Trabajo
+      Servicio
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
       Videoclip
@@ -243,7 +348,7 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
   &lt;img src=&quot;/public/royal/06.jpg&quot;&gt;
   &lt;img src=&quot;/public/royal/07.jpg&quot;&gt;
   &lt;img src=&quot;/public/royal/08.jpg&quot;&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Royal Año 2015 Trabajo Videoclip Una de las bandas emergentes de Rock n' Roll de la capital, con una energía indudable y un largo camino por recorrer aún, nos sacan de nuestra zona de confort cada vez que trabajamos con ellos. Nuestro primer trabajo juntos fue para su disco &quot;Hysteria&quot;, dónde rodamos &quot;That Something&quot; nuestro primer audiovisual jutnos, pero no el último. Actualmente estamos escribiendo guión que se convertirá en videoclip para su nuevo lanzamiento &quot;I like it/Criminal love&quot;</summary></entry><entry><title type="html">Rayden</title><link href="http://localhost:4000/rayden/" rel="alternate" type="text/html" title="Rayden" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backrayden</id><content type="html" xml:base="http://localhost:4000/rayden/">&lt;div class=&quot;project__author&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Royal Año 2016 Servicio Videoclip Una de las bandas emergentes de Rock n' Roll de la capital, con una energía indudable y un largo camino por recorrer aún, nos sacan de nuestra zona de confort cada vez que trabajamos con ellos. Nuestro primer trabajo juntos fue para su disco &quot;Hysteria&quot;, dónde rodamos &quot;That Something&quot; nuestro primer audiovisual jutnos, pero no el último. Actualmente estamos escribiendo guión que se convertirá en videoclip para su nuevo lanzamiento &quot;I like it/Criminal love&quot;</summary></entry><entry><title type="html">Rayden</title><link href="http://localhost:4000/rayden/" rel="alternate" type="text/html" title="Rayden" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backrayden</id><content type="html" xml:base="http://localhost:4000/rayden/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
@@ -262,10 +367,10 @@ El disco lo lanzaron por crowdfunding, con un exito inminente, el primer audiovi
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
-      Trabajo
+      Servicio
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
-      Videoclip
+      Lyric Video
     &lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -303,7 +408,7 @@ Aquí encontraréis tres lyrics que hemos creado para él y su música.
     No hago Rap
   &lt;/h3&gt;
   &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fptWkbjUnAo?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Rayden Año 2016 Trabajo Videoclip La poesía y el rap le han situado dónde está ahora, colocando su nombre en todos los medios y en lo más alto de las listas de ventas. Hemos trabajado con él y junto a Ingenia Pro en varios directos, temas de estudio y salas, como operadores de cámara. Pero sobre todo en animaciones visuales para su último trabajo Antónimo. Aquí encontraréis tres lyrics que hemos creado para él y su música.</summary></entry><entry><title type="html">Heavy Weigths</title><link href="http://localhost:4000/heavyweigths/" rel="alternate" type="text/html" title="Heavy Weigths" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backheavyweights</id><content type="html" xml:base="http://localhost:4000/heavyweigths/">&lt;div class=&quot;project__author&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Rayden Año 2016 Servicio Lyric Video La poesía y el rap le han situado dónde está ahora, colocando su nombre en todos los medios y en lo más alto de las listas de ventas. Hemos trabajado con él y junto a Ingenia Pro en varios directos, temas de estudio y salas, como operadores de cámara. Pero sobre todo en animaciones visuales para su último trabajo Antónimo. Aquí encontraréis tres lyrics que hemos creado para él y su música.</summary></entry><entry><title type="html">Heavy Weigths</title><link href="http://localhost:4000/heavyweigths/" rel="alternate" type="text/html" title="Heavy Weigths" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/backheavyweights</id><content type="html" xml:base="http://localhost:4000/heavyweigths/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
@@ -322,7 +427,7 @@ Aquí encontraréis tres lyrics que hemos creado para él y su música.
   &lt;/div&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
-      Trabajo
+      Servicio
     &lt;/h3&gt;
     &lt;p class=&quot;project__author-data&quot;&gt;
       Vídeo + Diseño
@@ -331,7 +436,7 @@ Aquí encontraréis tres lyrics que hemos creado para él y su música.
 &lt;/div&gt;
 &lt;div class=&quot;project__intro&quot;&gt;
   Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo ...
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Heavy Weigths Año 2015 Trabajo Vídeo + Diseño Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo ...</summary></entry><entry><title type="html">Bed Stuy</title><link href="http://localhost:4000/bedstuy/" rel="alternate" type="text/html" title="Bed Stuy" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/29-bed-stuy</id><content type="html" xml:base="http://localhost:4000/bedstuy/">&lt;div class=&quot;project__author&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Heavy Weigths Año 2015 Servicio Vídeo + Diseño Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo ...</summary></entry><entry><title type="html">Bed Stuy</title><link href="http://localhost:4000/bedstuy/" rel="alternate" type="text/html" title="Bed Stuy" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/29-bed-stuy</id><content type="html" xml:base="http://localhost:4000/bedstuy/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
