@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-18T17:21:25+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-18T17:42:57+01:00</updated><id>http://localhost:4000/</id><title type="html">Ladiëresis</title><subtitle>Creer es crear
 </subtitle><entry><title type="html">SFDK</title><link href="http://localhost:4000/sfdk/" rel="alternate" type="text/html" title="SFDK" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/sfdk</id><content type="html" xml:base="http://localhost:4000/sfdk/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
@@ -156,10 +156,6 @@
     Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;project__jungle&quot;&gt;
-  &lt;h3 class=&quot;project__jungle-title&quot;&gt;Nigth Party.&lt;/h3&gt;
-  &lt;img src=&quot;/public/jungle/big.jpg&quot; class=&quot;project__jungle-img&quot;&gt;
-&lt;/div&gt;
 &lt;h2 class=&quot;project__subtitle&quot;&gt;
   Galería de fotos
 &lt;/h2&gt;
@@ -176,7 +172,7 @@
     &lt;span&gt;#Hiphop &amp; #JamaicanVibes&lt;/span&gt;
   &lt;/h3&gt;
   &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zhjkRaEKIBk?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente The Jungle Año 2014 Servicio Diseño, foto y vídeo Una referencia en las noches de Madrid, famosos por sus fiestas donde los mejores deejays de HipHop y Reggae consiguen que nadie pare de bailar cada sábado. Son varios años los que llevamos juntos, diseñando semanalmente los flyers e inmortalizando a todo el que pasa por allí. Además, hace tiempo rodamos un aftermovie dónde se puede ver lo que ocurre en la jungla. · Crew · Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López Nigth Party. Galería de fotos AfterMovie #Hiphop &amp; #JamaicanVibes</summary></entry><entry><title type="html">Cosmosoul</title><link href="http://localhost:4000/cosmosoul/" rel="alternate" type="text/html" title="Cosmosoul" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/cosmosoul</id><content type="html" xml:base="http://localhost:4000/cosmosoul/">&lt;div class=&quot;project__author&quot;&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente The Jungle Año 2014 Servicio Diseño, foto y vídeo Una referencia en las noches de Madrid, famosos por sus fiestas donde los mejores deejays de HipHop y Reggae consiguen que nadie pare de bailar cada sábado. Son varios años los que llevamos juntos, diseñando semanalmente los flyers e inmortalizando a todo el que pasa por allí. Además, hace tiempo rodamos un aftermovie dónde se puede ver lo que ocurre en la jungla. · Crew · Sergio García + Ricardo Mariani + Daniel Coronado + Sergio Linares + Diego López Galería de fotos AfterMovie #Hiphop &amp; #JamaicanVibes</summary></entry><entry><title type="html">Cosmosoul</title><link href="http://localhost:4000/cosmosoul/" rel="alternate" type="text/html" title="Cosmosoul" /><published>2017-12-24T08:00:00+01:00</published><updated>2017-12-24T08:00:00+01:00</updated><id>http://localhost:4000/cosmosoul</id><content type="html" xml:base="http://localhost:4000/cosmosoul/">&lt;div class=&quot;project__author&quot;&gt;
   &lt;div class=&quot;project__author-section&quot;&gt;
     &lt;h3 class=&quot;project__author-title&quot;&gt;
       Cliente
@@ -389,14 +385,14 @@ Aquí encontraréis tres lyrics que hemos creado para él y su música.
   &lt;img src=&quot;/public/rayden/cartel03.jpg&quot;&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;project__black-video&quot;&gt;
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
   &lt;h3 class=&quot;project__black-video-title&quot;&gt;
     Imperdible
   &lt;/h3&gt;
   &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ULbILrgtDgU?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;div class=&quot;project__black-video&quot;&gt;
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
   &lt;h3 class=&quot;project__black-video-title&quot;&gt;
     Meteorito
   &lt;/h3&gt;
@@ -464,9 +460,30 @@ Aquí encontraréis tres lyrics que hemos creado para él y su música.
 &lt;/div&gt;
 &lt;div class=&quot;project__intro&quot;&gt;
   Cuándo una amante del HipHop es, por instinto, creativa, ocurren cosas como estas. BedStuy lanzó su primera colección &quot;Digging the HH graphics&quot; haciendo tributo a 'A Tribe Called Quest', 'Funkdoobiest' y a 'Naughty by Nature', llevando su esencia a camisetas, gorros, leggins e incluso bodys. Para nosotros fue un honor encargarnos de crear sus primeros spots
+  &lt;h3 class=&quot;project__intro-title&quot;&gt;
+    · Crew ·
+  &lt;/h3&gt;
+  &lt;div class=&quot;project__intro-list&quot;&gt;
+    Sergio García + Ricardo Mariani + Daniel Coronado + Fernando Taranco
+  &lt;/div&gt;
 &lt;/div&gt;
-&lt;div class=&quot;project__slide&quot;&gt;
-  ATCQ https://www.youtube.com/watch?v=xWvHlmbtk_M
-  FKNDO https://www.youtube.com/watch?v=W9SaERWCoow
-  NBN https://www.youtube.com/watch?v=NnMu-6U2PLU
-&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Bed Stuy Año 2015 Trabajo Videoclip Cuándo una amante del HipHop es, por instinto, creativa, ocurren cosas como estas. BedStuy lanzó su primera colección &quot;Digging the HH graphics&quot; haciendo tributo a 'A Tribe Called Quest', 'Funkdoobiest' y a 'Naughty by Nature', llevando su esencia a camisetas, gorros, leggins e incluso bodys. Para nosotros fue un honor encargarnos de crear sus primeros spots ATCQ https://www.youtube.com/watch?v=xWvHlmbtk_M FKNDO https://www.youtube.com/watch?v=W9SaERWCoow NBN https://www.youtube.com/watch?v=NnMu-6U2PLU</summary></entry></feed>
+
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    BEDSTUY SPOT
+    &lt;span&gt;TRIBUTE TO A TRIBE CALLED QUEST&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xWvHlmbtk_M?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;project__black-video project__black-video--bt&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    &lt;span&gt;TRIBUTE TO FUNKDO&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W9SaERWCoow?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;div class=&quot;project__black-video&quot;&gt;
+  &lt;h3 class=&quot;project__black-video-title&quot;&gt;
+    &lt;span&gt;TRIBUTE TO NAUGHTY BY NATURE&lt;/span&gt;
+  &lt;/h3&gt;
+  &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NnMu-6U2PLU?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">Cliente Bed Stuy Año 2015 Trabajo Videoclip Cuándo una amante del HipHop es, por instinto, creativa, ocurren cosas como estas. BedStuy lanzó su primera colección &quot;Digging the HH graphics&quot; haciendo tributo a 'A Tribe Called Quest', 'Funkdoobiest' y a 'Naughty by Nature', llevando su esencia a camisetas, gorros, leggins e incluso bodys. Para nosotros fue un honor encargarnos de crear sus primeros spots · Crew · Sergio García + Ricardo Mariani + Daniel Coronado + Fernando Taranco</summary></entry></feed>
