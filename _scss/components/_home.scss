@@ -1,0 +1,51 @@
+.home__video {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-size: 100% 100%;
+  background-position: center center;
+  background-size: contain;
+  object-fit: cover;
+  z-index: 3;
+}
+
+$home-logo-width: 300px;
+$home-logo-height: 200px;
+
+.home__logo {
+  position: fixed;
+  text-indent: 9999999px;
+  overflow: hidden;
+  top: calc( 50% - #{$home-logo-height}/2 );
+  z-index: 5;
+  width: $home-logo-width;
+  height: $home-logo-height;
+  left: calc( 50% - #{$home-logo-width}/ 2);;
+  color: white;
+  text-align: center;
+  background: transparent url('../assets/logo/ladieresis.png') center no-repeat;
+  background-size: 100% auto;
+
+}
+
+.home__video--mobile {
+  display: block;
+}
+
+.home__video--desktop {
+  display: none;
+}
+
+@media #{$breakpoints-medium} {
+  .home__video--mobile {
+    display: none;
+  }
+  
+  .home__video--desktop {
+    display: block;
+  }  
+}

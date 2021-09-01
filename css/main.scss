@@ -1,8 +1,14 @@
 ---
-# SCSS files
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 // base
+@import 'variables/colors';
+@import 'variables/typography';
+@import 'variables/breakpoints';
+@import 'variables/grid';
+@import 'variables/font-size';
+
 
 @import "base/reset-tag";
 @import "base/reset-form";
@@ -12,24 +18,6 @@
 
 @import "import/font";
 
-// layout
-
-@import "layout/header";
-@import "layout/footer";
-
 // view
 
-@import "view/page";
-@import "view/project";
-@import "view/about";
-
-// components
-
-@import "components/section";
-@import "components/title";
-
-// section
-
-@import "section/section-home";
-@import "section/section-partners";
-@import "section/section-projects";
+@import "components/home";

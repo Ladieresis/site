@@ -2,6 +2,16 @@
 layout: default
 ref: index
 ---
-{% include home/hero.html %}
-{% include home/projects.html %}
-{% include home/partners.html %}
+<div class="home">
+  <div class="home__logo">
+    Ladieresis
+  </div>
+  <video data-autoplay="" autoplay="" muted="" loop="" id="video" class="home__video home__video--desktop">
+    <source type="video/mp4" src="/public/reel_horizontal.mp4">
+    Your browser does not support the video tag.
+  </video>
+  <video data-autoplay="" autoplay="" muted="" loop="" id="video" class="home__video home__video--mobile">
+    <source type="video/mp4" src="/public/reel_vertical.mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
