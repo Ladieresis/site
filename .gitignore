@@ -1,0 +1,10 @@
+# SASS
+.asset-cache
+.sass-cache
+.jekyll-cache
+
+# Sysem
+.DS_Store
+
+# Local
+_site
