@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 .home__video {
   position: absolute;
   right: 0;
@@ -40,6 +42,21 @@ $home-logo-height: 200px;
   display: none;
 }
 
+.home__email {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  
+  position: absolute;
+  bottom: 10vh;
+  z-index: 100;
+  color: white;
+  width: 100%;
+  text-align: center;
+  font-size: 14px;
+}
+
 @media #{$breakpoints-medium} {
   .home__video--mobile {
     display: none;
@@ -49,3 +66,11 @@ $home-logo-height: 200px;
     display: block;
   }  
 }
+
+
+@media #{$breakpoints-medium} {
+  .home__email {
+    font-size: 18px;
+  }
+}
+
